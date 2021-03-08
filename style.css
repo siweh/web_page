@@ -1,0 +1,85 @@
+div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.start_img h3{
+    color:black;
+    font-size: 26px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.back_img {
+    background-image: url('./images/dieter-wolf-4Q2z0TSQLrE-unsplash\ \(2\).jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px; 
+    width: 100%;
+    background-size: contain;
+}
+
+.city {
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.city .which_city {
+    background: #fff;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    position: relative;
+}
+
+.city .which_city h4{
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.wrapper {
+    margin-top: 10%;
+}
+
+.wrapper  h5{
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.team {
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.team .team_member {
+    background: #fff;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 20px;
+    position: relative;
+    
+}
+
+.team .team_member h2 {
+    color:rgb(4, 0, 255);
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+/* .team .team_member .team_img {
+    /* border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px; */ 
