@@ -14,7 +14,8 @@ div {
 .start_img h3{
     color:black;
     font-size: 26px;
-    margin-top: 50px;
+    margin-top: 0;
+    padding-top: 0;
     text-align: center;
 }
 
@@ -92,7 +93,7 @@ td, tr{
   }
 
 .wrapper {
-    margin-top: 10%;
+    margin-top: 0%;
 }
 
 .wrapper  h5{
