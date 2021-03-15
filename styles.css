@@ -78,11 +78,11 @@ td, tr{
     .wrapper-language {
         width: 300px;
         position: absolute;
-        top: 80%;
+        top: 100%;
     }
     .wrapper-places {
         position: absolute;
-        top: 130%;
+        top: 140%;
     }
 }
 
