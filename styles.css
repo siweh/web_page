@@ -97,6 +97,10 @@ td, tr{
         width:100px;
         height:200px;
     }
+    .column-hist-2{
+        float: left;
+        padding: 5px;
+    }
 }
 
 @media (max-width:573px){
@@ -106,10 +110,6 @@ td, tr{
     .column-city {
         width: 180px;
         font-size: small;
-    }
-    .column-hist-2{
-        float: left;
-        padding: 5px;
     }
 }
 
