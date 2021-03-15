@@ -9,7 +9,7 @@
 }
 .wrapper{
     position: absolute;
-    top: 40%;
+    top: 30%;
 }
 .column-hist-2{
     padding: 5px;
@@ -18,15 +18,15 @@
 .wrapper-language {
     width: 300px;
     position: absolute;
-    top: 75%;
+    top: 50%;
 }
 .wrapper-places {
     position: absolute;
-    top: 130%;
+    top: 85%;
 }
 .wrapper-historical {
     position: absolute;
-    top: 140%;
+    top: 100%;
 }
 
 .image {
