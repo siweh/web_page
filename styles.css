@@ -52,10 +52,7 @@ td, tr{
     h1{
         font-size: large;
     }
-    .column-hist-2{
-        float: left;
-        padding: 5px;
-    }
+    
 }
 @media (max-width:229px){
     .image {
@@ -109,6 +106,10 @@ td, tr{
     .column-city {
         width: 180px;
         font-size: small;
+    }
+    .column-hist-2{
+        float: left;
+        padding: 5px;
     }
 }
 
