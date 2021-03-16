@@ -108,11 +108,11 @@ td, tr{
     }
     .wrapper-places {
         position: absolute;
-        top: 115%;
+        top: 130%;
     }
     .wrapper-historical {
         position: absolute;
-        top: 125%;
+        top: 140%;
     }
 }
 
