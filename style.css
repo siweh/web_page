@@ -92,9 +92,7 @@ td, tr{
     }
 }
  @media (max-width: 425px) {
-     .city {
-        flex-direction: column;
-     }
+     
  }
 
  @media (min-width: 1050px){
