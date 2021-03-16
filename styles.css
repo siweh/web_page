@@ -18,15 +18,15 @@
 .wrapper-language {
     width: 300px;
     position: absolute;
-    top: 50%;
+    top: 55%;
 }
 .wrapper-places {
     position: absolute;
-    top: 85%;
+    top: 90%;
 }
 .wrapper-historical {
     position: absolute;
-    top: 100%;
+    top: 105%;
 }
 
 .image {
