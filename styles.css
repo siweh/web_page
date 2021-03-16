@@ -18,15 +18,15 @@
 .wrapper-language {
     width: 300px;
     position: absolute;
-    top: 55%;
+    top: 50%;
 }
 .wrapper-places {
     position: absolute;
-    top: 90%;
+    top: 85%;
 }
 .wrapper-historical {
     position: absolute;
-    top: 105%;
+    top: 100%;
 }
 
 .image {
@@ -100,6 +100,19 @@ td, tr{
     .column-hist-2{
         float: left;
         padding: 5px;
+    }
+    .wrapper-language {
+        width: 300px;
+        position: absolute;
+        top: 60%;
+    }
+    .wrapper-places {
+        position: absolute;
+        top: 95%;
+    }
+    .wrapper-historical {
+        position: absolute;
+        top: 110%;
     }
 }
 
